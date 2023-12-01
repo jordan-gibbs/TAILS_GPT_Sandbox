@@ -9,11 +9,11 @@ import subprocess
 import datetime as dt
 
 
-def voice_stream(input_text):
-    # Call the API to get the audio stream
+def voice_stream(input_text, assistant_voice):
+    # This function takes the AI's text output and your voice selection and converts it into audio played by ffplay.
     response = client.audio.speech.create(
         model="tts-1",
-        voice="nova",
+        voice=assistant_voice,
         input=input_text
     )
 
@@ -35,6 +35,8 @@ def voice_stream(input_text):
 
 
 def record_audio(duration=None):
+    # This function allows you to record your voice with a press of a button, right now set to 'page down'. You could
+    # also bypass the keyboard input logic to consistently talk to the AI without pressing a button.
     CHUNK = 1024
     FORMAT = 'int16'
     CHANNELS = 1
@@ -103,6 +105,7 @@ def record_audio(duration=None):
 
 
 def whisper():
+    # This function uses OpenAI's whisper voice to text model to convert your voice input to text.
     record_audio()
     audio_file = open("user_response.wav", "rb")
     transcript = client.audio.transcriptions.create(
@@ -111,17 +114,18 @@ def whisper():
     )
     return transcript.text
 
+
 client = openai.OpenAI()
 
 
 def setup_assistant(client, assistant_name):
-    # create a new agent
+    # This function creates a new assistant with the OpenAI Assistant API.
     assistant = client.beta.assistants.create(
         name=assistant_name,
         instructions= f"""
-            You are a friend. Your name is {assistant_name} You are having a vocal conversation with a user. You will 
-            never output any markdown or formatted text of any kind, and you will speak in a concise, highly 
-            conversational manner. You will adopt any persona that the user may ask of you.
+            You are a friend. Your name is {assistant_name} You are having a vocal conversation with a user. You will never output any markdown or
+            formatted text of any kind, and you will speak in a concise, highly conversational manner. You will adopt any
+            persona that the user may ask of you.
             """,
         model="gpt-4-1106-preview",
     )
@@ -130,24 +134,23 @@ def setup_assistant(client, assistant_name):
     return assistant.id, thread.id
 
 
-def send_message(client, thread_id, task):
-    # Create a new thread message with the provided task
+def send_message(client, thread_id, user_message):
+    # This function sends your voice message into the thread object, which then gets passed to the AI.
     thread_message = client.beta.threads.messages.create(
         thread_id,
         role="user",
-        content=task,
+        content=user_message,
     )
     return thread_message
 
 
 def run_assistant(client, assistant_id, thread_id):
-    # Create a new run for the given thread and assistant
+    # Runs the assistant with the given thread and assistant IDs.
     run = client.beta.threads.runs.create(
         thread_id=thread_id,
         assistant_id=assistant_id
     )
 
-    # Loop until the run status is either "completed" or "requires_action"
     while run.status == "in_progress" or run.status == "queued":
         time.sleep(1)
         run = client.beta.threads.runs.retrieve(
@@ -155,15 +158,14 @@ def run_assistant(client, assistant_id, thread_id):
             run_id=run.id
         )
 
-        # At this point, the status is either "completed" or "requires_action"
         if run.status == "completed":
             return client.beta.threads.messages.list(
                 thread_id=thread_id
             )
 
 
-def save_session(assistant_id, thread_id, user_name_input, file_path='chat_sessions.json'):
-    # Check if file exists and load data, else initialize empty data
+def save_session(assistant_id, thread_id, user_name_input, assistant_voice, file_path='chat_sessions.json'):
+    # This function saves your session data locally, so you can easily retrieve it from the JSON file at any time.
     if os.path.exists(file_path):
         with open(file_path, 'r') as file:
             data = json.load(file)
@@ -177,7 +179,8 @@ def save_session(assistant_id, thread_id, user_name_input, file_path='chat_sessi
     data["sessions"][next_session_number] = {
         "Assistant ID": assistant_id,
         "Thread ID": thread_id,
-        "User Name Input": user_name_input
+        "User Name Input": user_name_input,
+        "Assistant Voice": assistant_voice
     }
 
     # Save data back to file
@@ -186,6 +189,7 @@ def save_session(assistant_id, thread_id, user_name_input, file_path='chat_sessi
 
 
 def display_sessions(file_path='chat_sessions.json'):
+    # This function shows your available sessions when you request it.
     if not os.path.exists(file_path):
         print("No sessions available.")
         return
@@ -199,18 +203,20 @@ def display_sessions(file_path='chat_sessions.json'):
 
 
 def get_session_data(session_number, file_path='chat_sessions.json'):
+    # This function retrieves the session that you choose.
     with open(file_path, 'r') as file:
         data = json.load(file)
 
     session = data["sessions"].get(session_number)
     if session:
-        return session["Assistant ID"], session["Thread ID"], session["User Name Input"]
+        return session["Assistant ID"], session["Thread ID"], session["User Name Input"], session["Assistant Voice"]
     else:
         print("Session not found.")
         return None, None
 
 
 def collect_message_history(assistant_id, thread_id, user_name_input):
+    # This function downloads and writes your entire chat history to a text file, so you can keep your own records.
     messages = run_assistant(client, assistant_id, thread_id)
     message_dict = json.loads(messages.model_dump_json())
 
@@ -232,12 +238,19 @@ def collect_message_history(assistant_id, thread_id, user_name_input):
 
 
 def main_loop():
-    user_choice = input("Type 'n' to make a new assistant session. Press 'Enter' to choose an existing assistant "
-                      "session.")
+    # This function combines all of the above, and wraps all the functionality into one easy-to-use system.
+    user_choice = input("Type 'n' to make a new assistant session. Press 'Enter' to choose an existing assistant session.")
     if user_choice == 'n':
         user_name_input = input("Please type a name for this chat session: ")
+        voice_names = ["alloy", "echo", "fable", "onyx", "nova", "shimmer"]
+        print("Voice List:\n1. Alloy - Androgynous, Neutral \n2. Echo - Male, Neutral\n3. Fable - Male, British "
+              "Accent\n4. "
+              "Onyx - Male, Deep\n5. Nova - Female, Neutral\n6. Shimmer - Female, Deep")
+        assistant_number = input("Please type the number of the voice you want: ")
+        voice_index = int(assistant_number) - 1
+        assistant_voice = voice_names[voice_index]
         IDS = setup_assistant(client, assistant_name=user_name_input)
-        save_session(IDS[0], IDS[1], user_name_input)
+        save_session(IDS[0], IDS[1], user_name_input, assistant_voice)
         assistant_id = IDS[0]
         thread_id = IDS[1]
         if assistant_id and thread_id:
@@ -264,12 +277,11 @@ def main_loop():
                 most_recent_message = message_dict['data'][0]
                 assistant_message = most_recent_message['content'][0]['text']['value']
                 print(f"{user_name_input}: {assistant_message}")
-                voice_stream(assistant_message)
-
+                voice_stream(assistant_message, assistant_voice)
     else:
         display_sessions()
         chosen_session_number = input("Enter the session number to load: ")
-        assistant_id, thread_id, user_name_input = get_session_data(chosen_session_number)
+        assistant_id, thread_id, user_name_input, assistant_voice = get_session_data(chosen_session_number)
         if assistant_id and thread_id:
             print(f"Loaded Session {chosen_session_number} with Assistant ID: {assistant_id} and Thread ID: {thread_id}")
             first_iteration = True
@@ -294,7 +306,7 @@ def main_loop():
                 most_recent_message = message_dict['data'][0]
                 assistant_message = most_recent_message['content'][0]['text']['value']
                 print(f"{user_name_input}: {assistant_message}")
-                voice_stream(assistant_message)
+                voice_stream(assistant_message, assistant_voice)
 
 
 if __name__ == "__main__":
