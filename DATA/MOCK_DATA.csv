@@ -1,0 +1,1001 @@
+city,outage_date,duration_hours,affected_customers,cause
+Great Falls,10/16/2022,18,25640,Equipment failure
+Great Falls,12/12/2022,20,35749,Storm damage
+Missoula,11/26/2022,20,69518,Equipment failure
+Bozeman,9/4/2022,14,1503,Planned maintenance
+Great Falls,11/27/2022,24,60818,Storm damage
+Helena,12/19/2022,11,88007,Storm damage
+Bozeman,3/8/2022,2,11046,Storm damage
+Bozeman,6/21/2022,22,3320,Equipment failure
+Billings,5/22/2022,12,52689,Human error
+Helena,1/31/2022,18,30946,Planned maintenance
+Helena,1/18/2022,11,49896,Equipment failure
+Helena,8/20/2022,9,34030,Equipment failure
+Billings,7/15/2022,16,42535,Storm damage
+Missoula,3/6/2022,23,48604,Planned maintenance
+Missoula,3/15/2022,8,60384,Planned maintenance
+Helena,2/24/2022,16,53247,Human error
+Helena,12/15/2022,12,20077,Planned maintenance
+Great Falls,5/6/2022,23,69623,Planned maintenance
+Missoula,7/2/2022,10,14998,Human error
+Bozeman,6/6/2022,7,38997,Equipment failure
+Helena,6/7/2022,12,52033,Equipment failure
+Great Falls,10/25/2022,21,87664,Storm damage
+Billings,10/17/2022,22,11538,Planned maintenance
+Great Falls,1/11/2022,1,43763,Storm damage
+Bozeman,11/1/2022,4,31722,Human error
+Bozeman,5/23/2022,18,45692,Planned maintenance
+Missoula,10/6/2022,19,56647,Storm damage
+Bozeman,3/13/2022,14,20959,Human error
+Helena,5/9/2022,1,2262,Equipment failure
+Billings,10/18/2022,17,49762,Storm damage
+Great Falls,5/21/2022,15,12259,Equipment failure
+Billings,3/11/2022,23,73221,Human error
+Missoula,3/9/2022,22,70028,Storm damage
+Missoula,1/22/2022,9,97224,Equipment failure
+Great Falls,4/9/2022,12,89009,Planned maintenance
+Bozeman,7/20/2022,1,38409,Planned maintenance
+Helena,2/5/2022,21,31313,Planned maintenance
+Missoula,12/12/2022,16,52695,Human error
+Missoula,12/12/2022,2,73021,Planned maintenance
+Helena,4/7/2022,17,44632,Equipment failure
+Missoula,4/9/2022,8,7112,Human error
+Billings,4/3/2022,14,60225,Equipment failure
+Great Falls,8/20/2022,18,13580,Human error
+Great Falls,8/29/2022,7,42091,Planned maintenance
+Billings,1/11/2022,7,71110,Planned maintenance
+Billings,6/19/2022,17,84089,Storm damage
+Bozeman,3/14/2022,22,47974,Planned maintenance
+Missoula,10/28/2022,5,21484,Planned maintenance
+Missoula,6/15/2022,11,7038,Planned maintenance
+Bozeman,3/5/2022,17,42750,Storm damage
+Billings,7/3/2022,1,72340,Storm damage
+Billings,4/11/2022,16,90312,Planned maintenance
+Great Falls,1/16/2022,23,218,Human error
+Bozeman,5/6/2022,3,5508,Storm damage
+Billings,3/9/2022,16,74577,Storm damage
+Missoula,11/21/2022,8,40285,Storm damage
+Billings,5/29/2022,4,29678,Human error
+Missoula,4/26/2022,10,46548,Equipment failure
+Billings,11/18/2022,9,99593,Human error
+Helena,5/21/2022,1,74560,Human error
+Missoula,1/15/2022,16,41000,Equipment failure
+Bozeman,9/22/2022,15,83174,Storm damage
+Missoula,8/1/2022,8,67285,Equipment failure
+Billings,3/29/2022,13,65516,Planned maintenance
+Missoula,12/22/2022,7,98231,Storm damage
+Billings,11/23/2022,1,89640,Human error
+Helena,10/20/2022,21,36527,Equipment failure
+Billings,7/24/2022,2,19689,Equipment failure
+Billings,1/14/2022,1,15362,Human error
+Billings,11/4/2022,18,1738,Storm damage
+Helena,3/3/2022,11,49276,Planned maintenance
+Great Falls,4/1/2022,12,82520,Storm damage
+Great Falls,7/1/2022,8,92861,Storm damage
+Missoula,11/3/2022,11,62112,Planned maintenance
+Billings,11/23/2022,14,1847,Equipment failure
+Helena,10/26/2022,11,68307,Planned maintenance
+Great Falls,4/14/2022,23,38711,Storm damage
+Great Falls,8/5/2022,8,59643,Human error
+Billings,11/9/2022,21,38299,Planned maintenance
+Bozeman,3/17/2022,18,90144,Human error
+Bozeman,5/7/2022,14,73555,Human error
+Great Falls,11/15/2022,22,52653,Human error
+Helena,5/15/2022,3,32028,Planned maintenance
+Helena,8/10/2022,17,54419,Storm damage
+Helena,2/20/2022,8,28226,Planned maintenance
+Great Falls,1/5/2022,19,90741,Human error
+Billings,5/20/2022,4,33274,Storm damage
+Great Falls,7/8/2022,11,4177,Planned maintenance
+Billings,4/2/2022,15,41659,Planned maintenance
+Missoula,2/2/2022,13,52656,Planned maintenance
+Bozeman,1/29/2022,2,91568,Storm damage
+Bozeman,4/4/2022,6,8727,Storm damage
+Billings,12/13/2022,15,37676,Human error
+Helena,6/19/2022,5,67032,Storm damage
+Missoula,10/29/2022,6,54974,Planned maintenance
+Great Falls,11/18/2022,13,88311,Equipment failure
+Bozeman,4/27/2022,1,91507,Storm damage
+Great Falls,12/24/2022,13,65935,Storm damage
+Missoula,7/28/2022,10,66190,Storm damage
+Helena,2/11/2022,13,22164,Storm damage
+Great Falls,4/6/2022,18,20820,Storm damage
+Bozeman,7/13/2022,13,19444,Storm damage
+Great Falls,5/15/2022,13,98439,Human error
+Missoula,7/26/2022,16,69822,Planned maintenance
+Bozeman,10/28/2022,7,79326,Planned maintenance
+Billings,8/17/2022,14,18775,Human error
+Billings,11/17/2022,24,28142,Human error
+Missoula,6/22/2022,18,81421,Planned maintenance
+Billings,1/9/2022,16,96195,Planned maintenance
+Bozeman,1/28/2022,3,31572,Planned maintenance
+Helena,8/5/2022,7,33181,Human error
+Bozeman,12/3/2022,13,9887,Storm damage
+Missoula,10/10/2022,3,30228,Planned maintenance
+Billings,7/25/2022,2,53234,Storm damage
+Great Falls,8/7/2022,19,63587,Planned maintenance
+Bozeman,1/3/2022,12,92986,Equipment failure
+Bozeman,1/15/2022,11,36089,Planned maintenance
+Billings,12/23/2022,11,27105,Equipment failure
+Billings,8/21/2022,13,6198,Storm damage
+Billings,10/23/2022,17,37406,Planned maintenance
+Bozeman,8/30/2022,20,21582,Human error
+Billings,3/15/2022,9,45642,Storm damage
+Missoula,4/9/2022,23,5468,Storm damage
+Bozeman,2/6/2022,10,50870,Equipment failure
+Great Falls,8/9/2022,2,17638,Human error
+Billings,7/1/2022,19,55636,Equipment failure
+Bozeman,12/7/2022,15,45556,Human error
+Great Falls,2/14/2022,10,35085,Equipment failure
+Missoula,6/6/2022,5,90938,Planned maintenance
+Billings,9/13/2022,11,54058,Equipment failure
+Great Falls,12/7/2022,2,976,Planned maintenance
+Great Falls,8/7/2022,2,53154,Human error
+Great Falls,8/4/2022,11,3386,Planned maintenance
+Great Falls,8/29/2022,4,68743,Human error
+Billings,12/23/2022,11,80012,Human error
+Helena,12/26/2022,13,27170,Human error
+Helena,12/5/2022,5,6363,Storm damage
+Billings,2/19/2022,10,63283,Equipment failure
+Great Falls,2/25/2022,20,90704,Equipment failure
+Helena,2/8/2022,5,72411,Human error
+Missoula,12/19/2022,7,46334,Planned maintenance
+Bozeman,11/22/2022,23,65749,Storm damage
+Helena,7/15/2022,14,42637,Equipment failure
+Missoula,9/9/2022,23,46569,Planned maintenance
+Helena,9/17/2022,19,37470,Equipment failure
+Missoula,5/16/2022,15,17785,Equipment failure
+Helena,6/22/2022,16,82703,Human error
+Great Falls,10/1/2022,2,57222,Storm damage
+Missoula,5/15/2022,14,22406,Storm damage
+Bozeman,9/4/2022,23,87015,Planned maintenance
+Billings,2/10/2022,11,88138,Storm damage
+Missoula,6/13/2022,13,34914,Planned maintenance
+Helena,8/4/2022,6,32374,Storm damage
+Helena,4/7/2022,22,87583,Human error
+Great Falls,6/27/2022,20,29222,Equipment failure
+Great Falls,5/28/2022,10,58708,Storm damage
+Great Falls,9/2/2022,2,12528,Human error
+Missoula,4/18/2022,11,66306,Human error
+Missoula,1/16/2022,6,9114,Storm damage
+Great Falls,6/2/2022,6,94169,Human error
+Bozeman,8/2/2022,4,80357,Equipment failure
+Helena,12/9/2022,18,90472,Human error
+Helena,3/11/2022,5,47171,Planned maintenance
+Great Falls,9/3/2022,15,38176,Storm damage
+Missoula,3/3/2022,2,96028,Planned maintenance
+Helena,11/9/2022,23,33095,Storm damage
+Missoula,1/5/2022,10,11740,Planned maintenance
+Billings,9/11/2022,13,35992,Human error
+Great Falls,7/15/2022,7,34444,Storm damage
+Billings,1/15/2022,11,82906,Equipment failure
+Missoula,9/10/2022,2,86254,Planned maintenance
+Great Falls,7/6/2022,5,96643,Planned maintenance
+Bozeman,4/20/2022,12,13822,Human error
+Billings,4/20/2022,15,76276,Storm damage
+Bozeman,1/1/2022,22,77979,Equipment failure
+Great Falls,8/18/2022,4,50038,Human error
+Billings,10/4/2022,24,27744,Human error
+Helena,1/13/2022,4,65733,Storm damage
+Bozeman,1/7/2022,20,370,Planned maintenance
+Bozeman,7/4/2022,7,94059,Storm damage
+Missoula,9/11/2022,14,45373,Planned maintenance
+Great Falls,7/18/2022,3,1099,Storm damage
+Helena,12/1/2022,15,97505,Storm damage
+Great Falls,11/26/2022,5,76077,Human error
+Missoula,8/22/2022,11,60714,Human error
+Billings,6/23/2022,11,8165,Equipment failure
+Bozeman,12/30/2022,10,85609,Storm damage
+Missoula,11/18/2022,12,35260,Equipment failure
+Bozeman,6/6/2022,11,43989,Storm damage
+Bozeman,2/20/2022,23,54498,Planned maintenance
+Billings,3/30/2022,23,39055,Equipment failure
+Great Falls,8/16/2022,12,7128,Equipment failure
+Great Falls,9/15/2022,6,90590,Equipment failure
+Great Falls,2/12/2022,6,46919,Human error
+Helena,10/7/2022,22,65764,Storm damage
+Billings,6/7/2022,20,11972,Equipment failure
+Helena,11/4/2022,13,95680,Storm damage
+Helena,5/27/2022,3,48871,Storm damage
+Bozeman,9/12/2022,20,38465,Equipment failure
+Helena,7/20/2022,2,25427,Human error
+Great Falls,1/18/2022,3,921,Planned maintenance
+Missoula,3/11/2022,14,47299,Human error
+Missoula,5/16/2022,10,91972,Equipment failure
+Bozeman,7/9/2022,12,36167,Planned maintenance
+Great Falls,1/19/2022,10,84178,Planned maintenance
+Bozeman,7/9/2022,18,17057,Planned maintenance
+Bozeman,6/21/2022,9,99131,Storm damage
+Billings,1/23/2022,5,70364,Human error
+Missoula,5/23/2022,7,58675,Planned maintenance
+Bozeman,11/3/2022,2,12277,Planned maintenance
+Billings,1/18/2022,19,82584,Storm damage
+Bozeman,9/7/2022,17,88783,Storm damage
+Great Falls,2/28/2022,5,46912,Storm damage
+Helena,5/2/2022,8,36379,Human error
+Bozeman,4/10/2022,20,19203,Planned maintenance
+Helena,2/7/2022,17,4145,Human error
+Missoula,5/19/2022,3,82344,Planned maintenance
+Billings,7/4/2022,16,80289,Planned maintenance
+Bozeman,3/16/2022,18,49321,Equipment failure
+Billings,4/20/2022,3,79586,Planned maintenance
+Billings,7/31/2022,10,98629,Storm damage
+Great Falls,8/27/2022,16,17977,Equipment failure
+Billings,1/21/2022,13,12855,Equipment failure
+Great Falls,10/25/2022,23,87523,Human error
+Bozeman,11/29/2022,22,50010,Human error
+Missoula,11/22/2022,1,95128,Planned maintenance
+Helena,12/9/2022,20,95156,Storm damage
+Bozeman,6/9/2022,13,37843,Human error
+Helena,6/28/2022,21,19024,Storm damage
+Great Falls,4/21/2022,19,91661,Planned maintenance
+Missoula,7/30/2022,17,22510,Planned maintenance
+Billings,8/2/2022,4,52190,Human error
+Great Falls,6/14/2022,23,50432,Equipment failure
+Helena,1/31/2022,15,68900,Planned maintenance
+Helena,4/6/2022,22,4306,Storm damage
+Great Falls,12/17/2022,21,74655,Storm damage
+Bozeman,3/25/2022,13,50550,Human error
+Bozeman,9/24/2022,16,6225,Storm damage
+Billings,10/18/2022,16,92679,Human error
+Bozeman,5/5/2022,19,67535,Equipment failure
+Bozeman,10/21/2022,22,13237,Planned maintenance
+Missoula,5/29/2022,17,60857,Storm damage
+Helena,5/8/2022,10,33349,Planned maintenance
+Great Falls,9/28/2022,12,21492,Planned maintenance
+Great Falls,10/10/2022,23,10849,Storm damage
+Great Falls,5/24/2022,1,86601,Human error
+Bozeman,6/23/2022,23,39214,Human error
+Bozeman,10/13/2022,8,4331,Storm damage
+Billings,12/23/2022,1,2144,Planned maintenance
+Missoula,5/21/2022,5,50919,Planned maintenance
+Bozeman,1/26/2022,1,67730,Storm damage
+Missoula,7/2/2022,21,68968,Human error
+Billings,11/23/2022,6,56669,Planned maintenance
+Missoula,11/12/2022,3,88485,Human error
+Bozeman,2/11/2022,22,72286,Human error
+Helena,3/7/2022,21,8626,Storm damage
+Missoula,12/19/2022,7,77403,Storm damage
+Bozeman,8/20/2022,10,29893,Planned maintenance
+Billings,10/24/2022,12,78620,Equipment failure
+Helena,1/18/2022,15,15141,Human error
+Bozeman,11/25/2022,3,93859,Planned maintenance
+Helena,12/30/2022,9,9447,Storm damage
+Billings,9/3/2022,19,18574,Human error
+Bozeman,11/25/2022,18,90396,Human error
+Helena,1/14/2022,7,61053,Human error
+Great Falls,11/21/2022,1,74206,Storm damage
+Missoula,7/25/2022,20,42928,Planned maintenance
+Great Falls,5/18/2022,8,18856,Planned maintenance
+Missoula,6/4/2022,24,47212,Human error
+Great Falls,7/4/2022,12,81908,Storm damage
+Bozeman,4/8/2022,19,67560,Human error
+Helena,5/7/2022,11,89528,Human error
+Bozeman,8/12/2022,6,85708,Equipment failure
+Great Falls,10/25/2022,12,95959,Human error
+Great Falls,8/26/2022,20,36999,Planned maintenance
+Missoula,3/8/2022,20,8360,Storm damage
+Great Falls,9/24/2022,24,7138,Storm damage
+Missoula,9/19/2022,23,58289,Equipment failure
+Great Falls,3/24/2022,8,66027,Planned maintenance
+Missoula,3/17/2022,3,23559,Equipment failure
+Billings,5/4/2022,11,64726,Human error
+Bozeman,7/10/2022,8,12041,Human error
+Great Falls,3/21/2022,14,49890,Human error
+Helena,5/15/2022,22,24661,Human error
+Helena,1/12/2022,7,48629,Planned maintenance
+Bozeman,8/28/2022,23,62377,Equipment failure
+Billings,1/7/2022,23,10336,Equipment failure
+Bozeman,7/12/2022,13,34085,Planned maintenance
+Missoula,3/21/2022,4,56787,Human error
+Great Falls,10/14/2022,14,22358,Human error
+Helena,5/18/2022,2,80755,Storm damage
+Missoula,2/2/2022,14,87346,Equipment failure
+Helena,4/13/2022,21,36065,Storm damage
+Great Falls,3/5/2022,2,76846,Planned maintenance
+Billings,12/16/2022,1,96072,Planned maintenance
+Helena,9/28/2022,19,31231,Planned maintenance
+Bozeman,1/7/2022,5,55562,Planned maintenance
+Great Falls,9/22/2022,8,90452,Storm damage
+Billings,12/12/2022,23,67668,Planned maintenance
+Bozeman,6/18/2022,10,95885,Planned maintenance
+Bozeman,8/10/2022,9,55855,Human error
+Great Falls,9/15/2022,1,12842,Human error
+Bozeman,11/3/2022,21,81032,Storm damage
+Bozeman,3/21/2022,20,17843,Planned maintenance
+Missoula,3/30/2022,20,2337,Storm damage
+Bozeman,3/28/2022,3,85220,Human error
+Bozeman,4/2/2022,16,7723,Storm damage
+Helena,5/29/2022,3,87116,Planned maintenance
+Missoula,7/21/2022,13,94240,Equipment failure
+Billings,10/10/2022,8,37522,Storm damage
+Great Falls,3/30/2022,1,20585,Storm damage
+Helena,4/13/2022,8,10247,Storm damage
+Billings,1/21/2022,23,8695,Human error
+Helena,6/19/2022,14,17737,Storm damage
+Bozeman,8/9/2022,13,15629,Equipment failure
+Helena,10/13/2022,10,68167,Equipment failure
+Helena,11/21/2022,20,68665,Storm damage
+Helena,10/22/2022,9,11410,Human error
+Missoula,9/8/2022,17,91084,Planned maintenance
+Bozeman,4/1/2022,14,67003,Human error
+Helena,8/5/2022,16,5757,Planned maintenance
+Bozeman,4/26/2022,18,59851,Equipment failure
+Great Falls,4/29/2022,5,48943,Storm damage
+Bozeman,8/21/2022,13,22371,Planned maintenance
+Bozeman,6/29/2022,20,45712,Planned maintenance
+Helena,11/26/2022,11,81084,Planned maintenance
+Helena,2/4/2022,12,11332,Human error
+Bozeman,9/10/2022,9,71538,Human error
+Missoula,4/2/2022,17,3786,Equipment failure
+Great Falls,7/23/2022,9,4776,Equipment failure
+Missoula,12/25/2022,7,15001,Planned maintenance
+Billings,3/1/2022,6,77518,Human error
+Great Falls,11/19/2022,15,90225,Storm damage
+Great Falls,12/22/2022,16,49297,Storm damage
+Great Falls,11/10/2022,18,18370,Human error
+Bozeman,4/2/2022,16,65911,Equipment failure
+Billings,1/12/2022,22,19084,Human error
+Billings,10/24/2022,18,98263,Storm damage
+Billings,8/25/2022,18,89693,Planned maintenance
+Great Falls,6/17/2022,3,79577,Equipment failure
+Missoula,6/30/2022,11,93808,Human error
+Missoula,7/4/2022,10,11776,Human error
+Great Falls,10/16/2022,11,79282,Equipment failure
+Billings,9/26/2022,5,6566,Equipment failure
+Bozeman,9/11/2022,22,37155,Storm damage
+Helena,3/6/2022,9,19002,Planned maintenance
+Billings,1/10/2022,18,67965,Human error
+Missoula,1/16/2022,4,77213,Planned maintenance
+Missoula,7/22/2022,4,91265,Storm damage
+Great Falls,3/15/2022,2,56257,Storm damage
+Billings,1/20/2022,13,15592,Human error
+Great Falls,2/15/2022,4,89536,Human error
+Bozeman,3/26/2022,17,70644,Storm damage
+Bozeman,4/23/2022,10,95639,Equipment failure
+Great Falls,8/3/2022,19,61052,Planned maintenance
+Missoula,9/22/2022,8,81362,Equipment failure
+Billings,7/2/2022,19,3239,Human error
+Bozeman,8/31/2022,2,59629,Equipment failure
+Great Falls,10/21/2022,23,50834,Equipment failure
+Billings,11/20/2022,8,44765,Storm damage
+Great Falls,9/25/2022,17,70721,Storm damage
+Helena,5/3/2022,1,19004,Storm damage
+Great Falls,10/26/2022,20,87905,Planned maintenance
+Great Falls,10/29/2022,3,14635,Planned maintenance
+Great Falls,2/6/2022,8,93306,Equipment failure
+Great Falls,5/25/2022,10,81861,Human error
+Missoula,9/16/2022,19,33995,Human error
+Billings,1/18/2022,17,20588,Human error
+Helena,3/14/2022,16,21126,Equipment failure
+Billings,2/17/2022,12,10075,Human error
+Missoula,5/17/2022,21,10021,Human error
+Missoula,12/17/2022,24,59229,Storm damage
+Bozeman,9/21/2022,8,3287,Storm damage
+Billings,5/16/2022,7,15869,Planned maintenance
+Bozeman,7/4/2022,2,8803,Human error
+Helena,6/20/2022,14,63618,Equipment failure
+Bozeman,12/16/2022,17,1152,Storm damage
+Bozeman,1/16/2022,23,45145,Planned maintenance
+Helena,4/24/2022,13,97409,Storm damage
+Great Falls,11/15/2022,20,39998,Equipment failure
+Missoula,11/20/2022,16,8387,Equipment failure
+Great Falls,10/9/2022,22,20332,Planned maintenance
+Billings,4/28/2022,11,94561,Equipment failure
+Bozeman,12/21/2022,13,76692,Planned maintenance
+Billings,7/31/2022,13,27115,Equipment failure
+Billings,11/7/2022,7,30448,Human error
+Great Falls,4/22/2022,4,72114,Storm damage
+Helena,9/27/2022,21,976,Planned maintenance
+Missoula,5/5/2022,21,62794,Human error
+Missoula,10/26/2022,13,27222,Human error
+Bozeman,6/3/2022,23,7262,Human error
+Helena,6/14/2022,19,85023,Equipment failure
+Helena,11/23/2022,7,64011,Storm damage
+Billings,6/24/2022,11,6919,Storm damage
+Billings,2/24/2022,11,33840,Planned maintenance
+Helena,4/11/2022,17,42625,Equipment failure
+Billings,4/22/2022,6,74189,Storm damage
+Great Falls,8/23/2022,13,2155,Equipment failure
+Missoula,10/11/2022,11,80074,Planned maintenance
+Missoula,3/29/2022,10,38285,Planned maintenance
+Helena,2/22/2022,1,38358,Storm damage
+Billings,8/26/2022,14,54858,Storm damage
+Missoula,1/28/2022,9,66830,Storm damage
+Great Falls,3/7/2022,7,15231,Equipment failure
+Bozeman,1/13/2022,7,56184,Storm damage
+Great Falls,5/28/2022,5,34781,Human error
+Helena,11/4/2022,2,45683,Storm damage
+Bozeman,2/6/2022,6,85132,Planned maintenance
+Great Falls,2/2/2022,3,74522,Equipment failure
+Great Falls,11/14/2022,12,72932,Planned maintenance
+Missoula,8/10/2022,20,82362,Equipment failure
+Bozeman,10/6/2022,5,89969,Human error
+Great Falls,11/29/2022,6,81714,Human error
+Bozeman,10/3/2022,10,27908,Equipment failure
+Helena,4/16/2022,14,89200,Human error
+Missoula,11/5/2022,4,4574,Equipment failure
+Great Falls,3/12/2022,12,20136,Human error
+Missoula,10/20/2022,15,98938,Human error
+Great Falls,11/5/2022,11,12398,Storm damage
+Great Falls,2/21/2022,5,12547,Storm damage
+Bozeman,6/22/2022,14,240,Equipment failure
+Billings,11/13/2022,7,18349,Storm damage
+Billings,12/26/2022,16,21922,Human error
+Helena,6/26/2022,4,54634,Storm damage
+Missoula,8/7/2022,17,5620,Planned maintenance
+Billings,8/15/2022,19,34762,Planned maintenance
+Billings,1/20/2022,1,39858,Storm damage
+Helena,6/27/2022,4,54702,Equipment failure
+Bozeman,1/23/2022,9,53159,Storm damage
+Great Falls,9/14/2022,13,70100,Planned maintenance
+Billings,2/19/2022,12,66300,Storm damage
+Helena,10/14/2022,22,33538,Equipment failure
+Billings,12/12/2022,15,90032,Storm damage
+Helena,4/15/2022,22,66867,Planned maintenance
+Missoula,6/22/2022,17,16055,Planned maintenance
+Great Falls,3/1/2022,1,37962,Human error
+Great Falls,8/20/2022,18,3156,Planned maintenance
+Billings,5/30/2022,9,67221,Equipment failure
+Helena,10/14/2022,22,51734,Storm damage
+Billings,9/27/2022,7,50180,Storm damage
+Helena,2/5/2022,4,67861,Human error
+Billings,1/26/2022,21,10268,Human error
+Helena,1/30/2022,6,78902,Human error
+Helena,5/12/2022,23,65478,Equipment failure
+Billings,8/20/2022,17,99600,Human error
+Great Falls,4/26/2022,1,90801,Planned maintenance
+Missoula,3/15/2022,15,85011,Planned maintenance
+Helena,11/10/2022,10,25231,Human error
+Billings,11/24/2022,13,6589,Equipment failure
+Bozeman,9/28/2022,10,12902,Storm damage
+Missoula,3/16/2022,3,81358,Planned maintenance
+Great Falls,3/6/2022,20,12525,Equipment failure
+Missoula,3/16/2022,19,17508,Equipment failure
+Billings,11/16/2022,22,93242,Equipment failure
+Bozeman,9/10/2022,6,32652,Equipment failure
+Helena,2/23/2022,17,3402,Planned maintenance
+Billings,10/5/2022,16,55220,Planned maintenance
+Missoula,7/21/2022,17,96529,Human error
+Helena,1/16/2022,21,29185,Human error
+Missoula,4/6/2022,21,50717,Equipment failure
+Missoula,5/21/2022,11,48758,Storm damage
+Missoula,8/7/2022,18,22043,Equipment failure
+Helena,10/18/2022,22,93651,Planned maintenance
+Great Falls,9/8/2022,20,96408,Human error
+Missoula,10/12/2022,6,81004,Planned maintenance
+Helena,10/29/2022,17,48902,Storm damage
+Bozeman,9/1/2022,5,87793,Storm damage
+Billings,10/30/2022,1,40355,Human error
+Great Falls,2/16/2022,4,58001,Planned maintenance
+Helena,6/3/2022,17,88855,Human error
+Missoula,3/20/2022,17,71663,Storm damage
+Helena,1/8/2022,14,65978,Planned maintenance
+Helena,5/11/2022,7,52776,Planned maintenance
+Bozeman,12/17/2022,3,58210,Planned maintenance
+Missoula,5/2/2022,2,56172,Equipment failure
+Bozeman,1/7/2022,20,38637,Planned maintenance
+Helena,9/7/2022,20,75094,Human error
+Helena,8/5/2022,5,44114,Planned maintenance
+Bozeman,8/23/2022,10,93783,Storm damage
+Missoula,2/16/2022,17,18558,Storm damage
+Bozeman,3/11/2022,15,977,Human error
+Helena,8/10/2022,1,91293,Equipment failure
+Billings,1/30/2022,9,63840,Planned maintenance
+Helena,7/12/2022,9,12158,Human error
+Helena,6/15/2022,10,32933,Planned maintenance
+Helena,8/12/2022,10,50011,Planned maintenance
+Billings,10/9/2022,21,90880,Planned maintenance
+Missoula,1/18/2022,6,58073,Human error
+Helena,3/1/2022,18,48701,Storm damage
+Billings,6/7/2022,12,26223,Storm damage
+Bozeman,12/5/2022,20,32661,Storm damage
+Billings,2/3/2022,17,60239,Storm damage
+Billings,3/22/2022,15,9854,Planned maintenance
+Helena,9/10/2022,13,39908,Human error
+Bozeman,1/28/2022,19,95846,Planned maintenance
+Missoula,4/16/2022,5,84328,Equipment failure
+Great Falls,7/29/2022,4,55853,Storm damage
+Great Falls,12/17/2022,24,65260,Storm damage
+Helena,5/16/2022,20,60875,Human error
+Bozeman,4/2/2022,2,81219,Planned maintenance
+Bozeman,12/13/2022,12,79551,Human error
+Great Falls,7/9/2022,7,21545,Planned maintenance
+Missoula,9/18/2022,11,90553,Planned maintenance
+Great Falls,5/30/2022,13,11317,Human error
+Billings,7/19/2022,1,53124,Planned maintenance
+Great Falls,4/8/2022,3,65906,Human error
+Bozeman,5/7/2022,15,88951,Equipment failure
+Bozeman,4/29/2022,18,92018,Storm damage
+Missoula,7/8/2022,5,9208,Human error
+Great Falls,12/29/2022,19,80042,Storm damage
+Missoula,5/28/2022,22,26979,Equipment failure
+Helena,3/10/2022,24,21795,Human error
+Great Falls,5/23/2022,19,99191,Storm damage
+Billings,3/4/2022,5,65593,Planned maintenance
+Helena,12/16/2022,14,22093,Human error
+Great Falls,1/12/2022,1,76374,Planned maintenance
+Helena,7/16/2022,16,52062,Human error
+Missoula,5/21/2022,1,23184,Human error
+Great Falls,6/27/2022,17,54652,Human error
+Bozeman,10/30/2022,12,66570,Storm damage
+Great Falls,7/8/2022,5,65579,Storm damage
+Missoula,1/10/2022,21,35632,Human error
+Great Falls,11/1/2022,4,97523,Equipment failure
+Bozeman,2/13/2022,23,72674,Human error
+Great Falls,3/20/2022,15,42713,Equipment failure
+Bozeman,8/30/2022,14,95299,Human error
+Helena,11/6/2022,8,26587,Planned maintenance
+Missoula,6/9/2022,18,97738,Storm damage
+Helena,6/28/2022,5,38594,Equipment failure
+Missoula,8/12/2022,1,15460,Human error
+Helena,12/22/2022,24,67231,Storm damage
+Missoula,5/16/2022,8,17472,Human error
+Helena,1/1/2022,16,40056,Planned maintenance
+Bozeman,4/21/2022,5,11418,Planned maintenance
+Great Falls,4/25/2022,8,32763,Storm damage
+Missoula,8/30/2022,10,2567,Storm damage
+Bozeman,9/30/2022,22,77555,Equipment failure
+Billings,4/16/2022,13,97520,Storm damage
+Great Falls,3/23/2022,3,75870,Planned maintenance
+Helena,8/20/2022,24,41815,Storm damage
+Helena,3/23/2022,8,61516,Storm damage
+Great Falls,4/27/2022,18,73183,Storm damage
+Billings,8/13/2022,18,20805,Equipment failure
+Missoula,11/9/2022,4,58861,Storm damage
+Great Falls,3/18/2022,17,77659,Planned maintenance
+Missoula,3/20/2022,17,36212,Human error
+Bozeman,12/12/2022,14,32646,Storm damage
+Bozeman,3/9/2022,15,84461,Storm damage
+Billings,12/30/2022,12,82211,Equipment failure
+Missoula,4/2/2022,5,72774,Storm damage
+Great Falls,10/22/2022,12,22513,Storm damage
+Helena,10/26/2022,20,95550,Equipment failure
+Helena,9/15/2022,13,13300,Planned maintenance
+Bozeman,8/29/2022,5,46252,Equipment failure
+Helena,7/3/2022,1,37016,Human error
+Missoula,10/25/2022,24,27108,Storm damage
+Helena,5/29/2022,2,12960,Planned maintenance
+Helena,6/1/2022,20,67113,Equipment failure
+Missoula,1/22/2022,4,38877,Storm damage
+Billings,12/28/2022,23,64567,Storm damage
+Billings,3/29/2022,3,88198,Human error
+Bozeman,10/25/2022,14,84961,Storm damage
+Helena,4/29/2022,2,56710,Storm damage
+Great Falls,10/14/2022,23,6548,Human error
+Bozeman,5/22/2022,16,27050,Planned maintenance
+Great Falls,8/1/2022,19,72011,Storm damage
+Billings,5/5/2022,2,80503,Human error
+Billings,1/13/2022,6,82485,Equipment failure
+Billings,7/3/2022,10,71181,Human error
+Billings,3/6/2022,13,81139,Planned maintenance
+Billings,8/15/2022,20,43355,Storm damage
+Billings,10/28/2022,13,19664,Storm damage
+Billings,11/24/2022,11,93712,Equipment failure
+Missoula,7/6/2022,18,91564,Storm damage
+Billings,8/26/2022,9,64917,Equipment failure
+Great Falls,8/8/2022,19,84382,Equipment failure
+Great Falls,9/17/2022,18,32151,Planned maintenance
+Helena,6/11/2022,6,64565,Storm damage
+Billings,8/20/2022,17,80701,Equipment failure
+Great Falls,7/7/2022,6,46345,Planned maintenance
+Helena,5/27/2022,13,88268,Human error
+Missoula,8/30/2022,8,27118,Human error
+Bozeman,10/25/2022,9,7192,Storm damage
+Great Falls,11/22/2022,9,44165,Planned maintenance
+Helena,7/24/2022,18,25076,Equipment failure
+Bozeman,2/7/2022,11,76985,Planned maintenance
+Helena,7/30/2022,17,51083,Planned maintenance
+Great Falls,3/27/2022,23,88860,Storm damage
+Great Falls,5/1/2022,22,6118,Planned maintenance
+Bozeman,3/11/2022,9,2151,Human error
+Missoula,7/16/2022,24,27171,Human error
+Helena,7/12/2022,2,39800,Storm damage
+Helena,9/16/2022,21,13509,Human error
+Helena,1/29/2022,8,81907,Human error
+Missoula,7/22/2022,20,59831,Human error
+Great Falls,9/17/2022,8,7648,Planned maintenance
+Helena,2/23/2022,24,403,Equipment failure
+Great Falls,12/22/2022,13,4672,Storm damage
+Billings,8/31/2022,16,9287,Storm damage
+Great Falls,2/11/2022,22,64329,Human error
+Great Falls,9/2/2022,18,7054,Human error
+Bozeman,6/10/2022,10,14731,Storm damage
+Helena,1/5/2022,24,34748,Storm damage
+Bozeman,6/6/2022,9,51249,Equipment failure
+Helena,12/6/2022,16,5840,Storm damage
+Missoula,6/27/2022,15,10051,Storm damage
+Billings,4/19/2022,2,16686,Equipment failure
+Billings,8/13/2022,4,97883,Human error
+Helena,7/10/2022,11,65569,Planned maintenance
+Missoula,1/18/2022,18,21330,Planned maintenance
+Helena,2/18/2022,13,26667,Planned maintenance
+Great Falls,3/1/2022,9,78954,Storm damage
+Helena,8/3/2022,24,52966,Human error
+Helena,11/13/2022,8,73825,Equipment failure
+Missoula,3/21/2022,1,47180,Planned maintenance
+Billings,4/27/2022,10,78245,Human error
+Great Falls,2/26/2022,1,74518,Planned maintenance
+Helena,12/15/2022,10,48468,Planned maintenance
+Billings,12/2/2022,16,74182,Storm damage
+Bozeman,11/2/2022,1,91766,Storm damage
+Bozeman,12/17/2022,21,96928,Human error
+Missoula,5/5/2022,2,90609,Planned maintenance
+Great Falls,1/23/2022,14,7307,Planned maintenance
+Bozeman,11/5/2022,24,83829,Storm damage
+Helena,11/23/2022,23,65485,Equipment failure
+Bozeman,3/10/2022,5,34192,Equipment failure
+Helena,9/9/2022,3,85440,Storm damage
+Helena,4/24/2022,5,80600,Storm damage
+Missoula,1/12/2022,24,2547,Planned maintenance
+Missoula,12/27/2022,13,49280,Human error
+Billings,6/7/2022,11,54354,Planned maintenance
+Missoula,9/30/2022,22,5177,Equipment failure
+Missoula,12/2/2022,12,59758,Storm damage
+Bozeman,11/18/2022,17,15188,Human error
+Great Falls,11/16/2022,1,21539,Planned maintenance
+Bozeman,1/8/2022,9,23406,Planned maintenance
+Bozeman,12/19/2022,3,95027,Equipment failure
+Helena,8/7/2022,6,60001,Equipment failure
+Billings,8/10/2022,2,37124,Human error
+Billings,6/13/2022,2,40201,Equipment failure
+Missoula,6/1/2022,14,49934,Planned maintenance
+Great Falls,4/14/2022,13,75324,Human error
+Helena,1/11/2022,24,71522,Equipment failure
+Great Falls,7/22/2022,12,27822,Equipment failure
+Bozeman,9/2/2022,16,69889,Storm damage
+Missoula,12/18/2022,7,19902,Planned maintenance
+Bozeman,11/13/2022,9,46134,Equipment failure
+Billings,7/6/2022,18,37017,Equipment failure
+Billings,3/18/2022,6,65446,Equipment failure
+Great Falls,6/7/2022,3,55791,Equipment failure
+Bozeman,3/16/2022,12,18328,Storm damage
+Billings,11/3/2022,14,89376,Planned maintenance
+Great Falls,12/1/2022,10,19843,Equipment failure
+Bozeman,3/7/2022,2,99192,Planned maintenance
+Bozeman,8/22/2022,23,45172,Equipment failure
+Missoula,1/27/2022,13,81414,Equipment failure
+Billings,11/8/2022,9,22119,Planned maintenance
+Billings,6/11/2022,12,95314,Human error
+Helena,8/3/2022,5,58791,Equipment failure
+Great Falls,1/4/2022,20,35761,Human error
+Billings,7/18/2022,4,71927,Human error
+Helena,12/8/2022,11,60514,Equipment failure
+Helena,7/26/2022,13,61339,Planned maintenance
+Missoula,7/20/2022,2,1117,Equipment failure
+Billings,3/4/2022,3,81003,Human error
+Great Falls,6/11/2022,19,2477,Planned maintenance
+Missoula,8/31/2022,6,56063,Human error
+Billings,8/10/2022,23,19597,Storm damage
+Billings,10/11/2022,24,87740,Storm damage
+Great Falls,8/26/2022,20,12052,Storm damage
+Missoula,1/3/2022,4,49306,Storm damage
+Great Falls,3/12/2022,24,2861,Planned maintenance
+Bozeman,6/21/2022,6,90584,Human error
+Great Falls,1/14/2022,13,31804,Storm damage
+Great Falls,4/9/2022,11,54826,Planned maintenance
+Helena,2/15/2022,24,3235,Storm damage
+Billings,9/28/2022,7,74919,Equipment failure
+Great Falls,1/8/2022,20,26402,Equipment failure
+Helena,3/20/2022,14,78329,Human error
+Bozeman,6/27/2022,11,14132,Equipment failure
+Great Falls,6/10/2022,22,7601,Planned maintenance
+Missoula,10/18/2022,11,90451,Human error
+Bozeman,4/24/2022,6,18616,Human error
+Bozeman,1/15/2022,13,49249,Planned maintenance
+Bozeman,10/19/2022,14,74775,Storm damage
+Billings,8/17/2022,19,55721,Planned maintenance
+Billings,12/11/2022,3,62402,Equipment failure
+Great Falls,11/26/2022,7,95677,Equipment failure
+Missoula,7/3/2022,4,7612,Storm damage
+Bozeman,11/30/2022,15,29959,Storm damage
+Missoula,6/5/2022,23,33674,Storm damage
+Missoula,7/5/2022,10,74234,Human error
+Helena,1/23/2022,20,99128,Planned maintenance
+Bozeman,7/31/2022,2,39878,Planned maintenance
+Bozeman,6/24/2022,24,84318,Storm damage
+Missoula,6/3/2022,20,45220,Storm damage
+Great Falls,4/4/2022,14,91800,Equipment failure
+Missoula,3/18/2022,10,51574,Equipment failure
+Missoula,3/19/2022,12,11079,Human error
+Helena,6/10/2022,8,27292,Storm damage
+Helena,3/20/2022,8,27181,Planned maintenance
+Missoula,5/4/2022,10,24169,Planned maintenance
+Missoula,9/30/2022,5,12394,Human error
+Helena,7/8/2022,12,38447,Storm damage
+Missoula,7/3/2022,7,18835,Storm damage
+Great Falls,12/13/2022,12,89075,Equipment failure
+Billings,12/3/2022,6,23503,Equipment failure
+Helena,11/30/2022,21,13535,Storm damage
+Missoula,8/18/2022,15,90945,Storm damage
+Bozeman,9/22/2022,23,16375,Storm damage
+Great Falls,11/12/2022,19,73884,Human error
+Great Falls,11/10/2022,20,94244,Planned maintenance
+Bozeman,9/14/2022,17,74006,Planned maintenance
+Missoula,4/19/2022,19,17476,Human error
+Bozeman,9/12/2022,23,85322,Equipment failure
+Bozeman,9/20/2022,12,28758,Equipment failure
+Helena,12/2/2022,17,56967,Storm damage
+Great Falls,10/29/2022,4,11550,Equipment failure
+Great Falls,10/30/2022,24,64190,Storm damage
+Bozeman,10/16/2022,24,12181,Equipment failure
+Missoula,9/4/2022,22,17632,Planned maintenance
+Missoula,10/10/2022,7,16681,Planned maintenance
+Great Falls,5/11/2022,17,62971,Equipment failure
+Great Falls,6/22/2022,8,95688,Equipment failure
+Missoula,4/23/2022,23,76651,Planned maintenance
+Helena,4/17/2022,13,78913,Human error
+Billings,11/15/2022,6,5606,Planned maintenance
+Bozeman,6/4/2022,2,49710,Equipment failure
+Billings,9/11/2022,24,40697,Human error
+Billings,8/26/2022,20,29520,Storm damage
+Great Falls,2/13/2022,19,35346,Storm damage
+Missoula,5/2/2022,19,52053,Equipment failure
+Missoula,6/30/2022,22,69000,Storm damage
+Missoula,12/6/2022,8,27533,Equipment failure
+Great Falls,1/12/2022,5,57279,Human error
+Billings,7/14/2022,16,78142,Planned maintenance
+Helena,7/31/2022,2,10254,Storm damage
+Helena,1/25/2022,22,66951,Storm damage
+Missoula,12/23/2022,19,41367,Equipment failure
+Helena,7/16/2022,16,19361,Human error
+Helena,1/22/2022,12,83340,Equipment failure
+Bozeman,7/24/2022,8,76651,Planned maintenance
+Helena,9/14/2022,24,39285,Planned maintenance
+Billings,1/18/2022,2,16976,Human error
+Missoula,10/28/2022,19,86866,Human error
+Bozeman,3/31/2022,16,81485,Equipment failure
+Bozeman,9/27/2022,8,40543,Human error
+Billings,6/27/2022,24,76785,Human error
+Bozeman,6/27/2022,10,93682,Storm damage
+Great Falls,12/9/2022,2,98151,Human error
+Helena,7/15/2022,18,72624,Storm damage
+Bozeman,6/1/2022,19,8159,Storm damage
+Great Falls,10/5/2022,9,97122,Planned maintenance
+Missoula,3/25/2022,5,33809,Storm damage
+Billings,8/31/2022,13,62862,Human error
+Bozeman,7/9/2022,10,59223,Planned maintenance
+Great Falls,6/2/2022,2,36594,Storm damage
+Bozeman,12/15/2022,23,28699,Human error
+Billings,4/4/2022,6,85118,Planned maintenance
+Missoula,8/17/2022,8,99036,Storm damage
+Bozeman,9/12/2022,6,98405,Human error
+Bozeman,1/5/2022,14,39530,Equipment failure
+Helena,5/27/2022,14,26569,Storm damage
+Helena,9/17/2022,12,5170,Human error
+Billings,7/2/2022,22,72391,Human error
+Billings,6/20/2022,19,46524,Equipment failure
+Missoula,4/3/2022,19,73435,Equipment failure
+Great Falls,1/20/2022,4,63793,Equipment failure
+Billings,5/18/2022,16,19636,Planned maintenance
+Billings,10/11/2022,7,75415,Equipment failure
+Bozeman,8/15/2022,14,12735,Storm damage
+Great Falls,8/8/2022,11,24563,Equipment failure
+Helena,5/20/2022,9,54400,Equipment failure
+Great Falls,11/22/2022,21,31014,Planned maintenance
+Great Falls,10/31/2022,8,38634,Equipment failure
+Great Falls,11/16/2022,20,137,Equipment failure
+Missoula,7/13/2022,10,1971,Storm damage
+Helena,8/23/2022,9,87781,Equipment failure
+Helena,4/29/2022,18,70208,Equipment failure
+Missoula,5/7/2022,10,78157,Equipment failure
+Helena,5/12/2022,6,3524,Human error
+Great Falls,4/9/2022,15,43548,Equipment failure
+Bozeman,9/3/2022,14,77695,Equipment failure
+Great Falls,4/30/2022,9,90527,Human error
+Billings,4/2/2022,3,42892,Equipment failure
+Great Falls,1/28/2022,8,598,Planned maintenance
+Billings,3/24/2022,24,86357,Equipment failure
+Bozeman,8/31/2022,6,49977,Planned maintenance
+Bozeman,1/21/2022,2,71564,Storm damage
+Helena,8/9/2022,3,85779,Human error
+Billings,11/15/2022,14,99195,Storm damage
+Great Falls,12/30/2022,11,61869,Human error
+Missoula,8/11/2022,17,72985,Equipment failure
+Bozeman,3/25/2022,10,92695,Human error
+Great Falls,6/26/2022,14,60954,Storm damage
+Helena,5/17/2022,6,36209,Storm damage
+Bozeman,7/3/2022,4,46463,Storm damage
+Bozeman,12/6/2022,4,44410,Planned maintenance
+Missoula,8/13/2022,23,14920,Storm damage
+Missoula,1/6/2022,19,14230,Equipment failure
+Helena,10/20/2022,21,70130,Planned maintenance
+Missoula,9/19/2022,20,69386,Equipment failure
+Great Falls,6/24/2022,19,29403,Planned maintenance
+Missoula,10/10/2022,8,10200,Planned maintenance
+Missoula,9/25/2022,24,38708,Equipment failure
+Billings,11/21/2022,23,66640,Planned maintenance
+Helena,7/25/2022,14,48430,Planned maintenance
+Missoula,10/27/2022,18,26627,Planned maintenance
+Helena,1/25/2022,19,49828,Storm damage
+Missoula,7/23/2022,23,96607,Planned maintenance
+Helena,6/3/2022,7,78993,Storm damage
+Missoula,5/10/2022,18,48342,Storm damage
+Great Falls,11/14/2022,1,7496,Planned maintenance
+Billings,8/1/2022,23,10309,Storm damage
+Billings,4/8/2022,18,87127,Equipment failure
+Helena,3/24/2022,8,95383,Human error
+Missoula,6/15/2022,6,63603,Storm damage
+Billings,2/20/2022,4,27033,Storm damage
+Bozeman,9/15/2022,10,23333,Planned maintenance
+Great Falls,6/14/2022,5,23759,Equipment failure
+Bozeman,3/13/2022,23,47413,Equipment failure
+Missoula,3/15/2022,14,99192,Planned maintenance
+Helena,10/6/2022,8,99225,Storm damage
+Bozeman,6/2/2022,2,72658,Storm damage
+Billings,12/27/2022,22,21299,Human error
+Bozeman,6/12/2022,20,44510,Human error
+Great Falls,4/2/2022,11,73931,Planned maintenance
+Missoula,5/16/2022,11,88673,Planned maintenance
+Bozeman,12/9/2022,18,17312,Human error
+Helena,7/22/2022,1,30951,Equipment failure
+Helena,2/17/2022,17,14877,Storm damage
+Helena,3/29/2022,20,89415,Planned maintenance
+Billings,11/16/2022,19,26171,Human error
+Billings,9/20/2022,16,74573,Planned maintenance
+Billings,3/19/2022,17,65889,Equipment failure
+Great Falls,8/16/2022,21,99352,Equipment failure
+Helena,3/12/2022,2,24405,Equipment failure
+Helena,4/21/2022,18,30828,Storm damage
+Great Falls,3/15/2022,4,27051,Equipment failure
+Bozeman,1/30/2022,1,60309,Equipment failure
+Missoula,7/29/2022,22,29650,Human error
+Helena,2/17/2022,21,60438,Equipment failure
+Missoula,7/28/2022,21,27309,Human error
+Great Falls,5/26/2022,5,66211,Equipment failure
+Missoula,3/5/2022,2,66914,Storm damage
+Missoula,12/9/2022,23,19281,Planned maintenance
+Great Falls,4/14/2022,19,3068,Human error
+Bozeman,1/31/2022,11,55640,Equipment failure
+Great Falls,3/16/2022,3,33538,Equipment failure
+Great Falls,4/25/2022,22,99409,Human error
+Great Falls,2/23/2022,2,55339,Storm damage
+Great Falls,7/7/2022,13,89470,Human error
+Helena,12/27/2022,22,44396,Planned maintenance
+Missoula,11/16/2022,18,10293,Equipment failure
+Missoula,7/27/2022,9,11912,Human error
+Billings,7/9/2022,22,9738,Storm damage
+Missoula,12/23/2022,12,43436,Equipment failure
+Helena,1/12/2022,8,64399,Planned maintenance
+Billings,8/11/2022,19,96989,Planned maintenance
+Billings,8/20/2022,18,79626,Planned maintenance
+Helena,12/26/2022,23,81008,Storm damage
+Helena,9/17/2022,4,39801,Equipment failure
+Great Falls,6/21/2022,22,52659,Human error
+Great Falls,1/18/2022,9,34897,Planned maintenance
+Billings,4/27/2022,5,34247,Equipment failure
+Great Falls,6/17/2022,6,59528,Equipment failure
+Billings,4/22/2022,15,79354,Human error
+Great Falls,11/11/2022,22,57546,Equipment failure
+Great Falls,3/1/2022,5,29461,Human error
+Missoula,8/8/2022,24,73415,Planned maintenance
+Missoula,11/10/2022,6,51604,Storm damage
+Bozeman,4/13/2022,3,29696,Human error
+Missoula,5/6/2022,21,39776,Storm damage
+Bozeman,1/28/2022,8,4534,Human error
+Missoula,7/28/2022,10,29972,Equipment failure
+Great Falls,3/13/2022,22,70163,Equipment failure
+Helena,9/26/2022,16,28519,Planned maintenance
+Missoula,5/17/2022,11,34449,Equipment failure
+Great Falls,7/24/2022,17,67746,Human error
+Missoula,6/7/2022,24,56223,Human error
+Helena,11/5/2022,22,447,Planned maintenance
+Missoula,4/24/2022,16,74124,Human error
+Billings,5/1/2022,15,19639,Planned maintenance
+Billings,8/17/2022,7,30807,Equipment failure
+Great Falls,3/16/2022,22,32438,Equipment failure
+Billings,6/3/2022,23,83550,Human error
+Helena,2/4/2022,1,61506,Equipment failure
+Great Falls,4/26/2022,4,8873,Planned maintenance
+Great Falls,3/12/2022,5,89670,Equipment failure
+Helena,8/15/2022,19,68040,Human error
+Billings,6/9/2022,18,14622,Human error
+Billings,12/22/2022,5,1356,Storm damage
+Bozeman,5/30/2022,17,56169,Human error
+Helena,8/2/2022,17,58530,Planned maintenance
+Billings,5/15/2022,16,86775,Planned maintenance
+Missoula,10/18/2022,10,56917,Storm damage
+Billings,6/24/2022,21,1672,Equipment failure
+Bozeman,6/16/2022,1,1426,Equipment failure
+Great Falls,11/30/2022,18,61035,Storm damage
+Billings,5/31/2022,16,39393,Equipment failure
+Great Falls,7/27/2022,17,76423,Human error
+Billings,3/8/2022,2,61300,Storm damage
+Great Falls,5/14/2022,3,24929,Human error
+Helena,7/13/2022,23,24417,Storm damage
+Great Falls,9/14/2022,11,50715,Planned maintenance
+Billings,7/19/2022,20,19196,Planned maintenance
+Great Falls,3/10/2022,14,70806,Planned maintenance
+Bozeman,1/31/2022,2,12960,Equipment failure
+Bozeman,12/1/2022,22,17567,Equipment failure
+Helena,2/7/2022,4,93749,Human error
+Missoula,4/2/2022,5,26036,Human error
+Helena,5/22/2022,12,82298,Planned maintenance
+Billings,7/20/2022,4,56977,Equipment failure
+Missoula,2/28/2022,15,18491,Planned maintenance
+Great Falls,4/1/2022,13,63461,Human error
+Helena,5/8/2022,20,73856,Planned maintenance
+Billings,7/15/2022,22,16259,Storm damage
+Missoula,1/28/2022,15,82612,Human error
+Billings,12/29/2022,12,1098,Storm damage
+Missoula,5/3/2022,1,61693,Planned maintenance
+Bozeman,2/18/2022,13,64966,Planned maintenance
+Billings,10/9/2022,23,25942,Planned maintenance
+Bozeman,5/17/2022,21,20926,Planned maintenance
+Missoula,4/23/2022,16,62044,Equipment failure
+Bozeman,11/6/2022,5,59451,Equipment failure
+Billings,4/29/2022,4,96568,Human error
+Missoula,9/21/2022,1,90752,Planned maintenance
+Missoula,7/18/2022,2,61178,Storm damage
+Bozeman,5/2/2022,8,3039,Human error
+Billings,9/9/2022,5,65252,Storm damage
+Billings,7/4/2022,16,50373,Human error
+Billings,9/19/2022,19,77553,Storm damage
+Billings,9/20/2022,12,17606,Equipment failure
+Billings,9/27/2022,17,58720,Human error
+Bozeman,3/22/2022,1,131,Storm damage
+Missoula,1/23/2022,7,65197,Human error
+Bozeman,6/24/2022,12,83974,Planned maintenance
+Missoula,2/20/2022,12,45238,Equipment failure
+Billings,4/27/2022,5,44841,Planned maintenance
+Missoula,6/14/2022,13,78109,Storm damage
+Bozeman,12/28/2022,14,828,Human error
+Billings,7/7/2022,21,57487,Planned maintenance
+Great Falls,1/29/2022,12,30790,Human error
+Helena,4/13/2022,14,87444,Storm damage
+Bozeman,4/21/2022,10,57287,Human error
+Bozeman,12/6/2022,5,28258,Human error
+Great Falls,9/21/2022,10,95528,Storm damage
+Billings,3/23/2022,10,18631,Equipment failure
+Great Falls,6/16/2022,11,88267,Storm damage
+Billings,8/11/2022,10,58383,Equipment failure
+Missoula,5/8/2022,21,91926,Storm damage
+Bozeman,3/14/2022,21,94363,Human error
+Great Falls,2/2/2022,12,97501,Equipment failure
+Great Falls,11/28/2022,13,41071,Planned maintenance
+Helena,11/5/2022,16,91863,Human error
+Missoula,9/25/2022,14,33937,Planned maintenance
+Bozeman,12/8/2022,20,7895,Storm damage
+Missoula,3/6/2022,7,82364,Human error
+Billings,7/18/2022,14,20730,Planned maintenance
+Helena,9/26/2022,4,53528,Human error
+Helena,12/6/2022,2,34221,Planned maintenance
+Great Falls,12/27/2022,1,92690,Equipment failure
+Bozeman,5/2/2022,4,22737,Human error
+Great Falls,4/29/2022,10,97062,Storm damage
+Missoula,5/4/2022,3,38542,Planned maintenance
+Missoula,7/2/2022,11,89908,Storm damage
+Bozeman,11/1/2022,15,91121,Equipment failure
+Bozeman,9/9/2022,24,38462,Planned maintenance
+Missoula,3/24/2022,11,48730,Equipment failure
+Bozeman,4/15/2022,8,90821,Planned maintenance
+Great Falls,5/1/2022,17,94878,Equipment failure
+Bozeman,11/16/2022,23,38735,Storm damage
+Helena,4/22/2022,17,37317,Planned maintenance
+Bozeman,2/8/2022,1,18277,Human error
+Great Falls,11/21/2022,23,52068,Storm damage
+Billings,5/24/2022,11,98841,Storm damage
+Missoula,7/3/2022,14,21623,Human error
+Billings,7/1/2022,20,23624,Equipment failure
+Great Falls,10/5/2022,19,16883,Equipment failure
+Billings,8/29/2022,10,92039,Planned maintenance
+Great Falls,1/1/2022,23,86980,Human error
+Great Falls,10/18/2022,11,18453,Human error
+Helena,10/12/2022,11,69503,Planned maintenance
+Missoula,1/14/2022,16,95462,Storm damage
+Great Falls,2/20/2022,17,62022,Planned maintenance
+Missoula,1/5/2022,7,43962,Storm damage
+Helena,6/7/2022,18,35836,Human error
+Billings,1/23/2022,21,83808,Equipment failure
+Helena,6/19/2022,17,67200,Storm damage
+Missoula,8/15/2022,5,32789,Equipment failure
+Great Falls,12/27/2022,15,71224,Storm damage
+Bozeman,12/16/2022,10,39245,Planned maintenance
+Billings,4/2/2022,1,66713,Equipment failure
+Great Falls,8/27/2022,21,87511,Human error
+Great Falls,3/15/2022,12,88289,Planned maintenance
+Billings,11/7/2022,16,11223,Planned maintenance
+Helena,4/15/2022,8,78859,Equipment failure
+Helena,3/27/2022,2,44342,Planned maintenance
+Billings,12/13/2022,18,24128,Planned maintenance
+Helena,7/15/2022,13,13459,Storm damage
