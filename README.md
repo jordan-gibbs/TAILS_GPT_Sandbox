@@ -1,5 +1,5 @@
 # TAILS GPT Sandbox
-Welcome to Tails GPT Sandbox! This repository contains a set of GPT model tutorials and scripts that you can use for learning and experimentation. The following instructions will help you set up the environment to run these scripts on your own computer.  
+Welcome to TAILS GPT Sandbox! This repository contains a set of GPT model tutorials and scripts that you can use for learning and experimentation. The following instructions will help you set up the environment to run these scripts on your own computer.  
 ## Prerequisites  
 Before you begin, make sure you have the following requirements met:  
 ### Install Dependencies  
